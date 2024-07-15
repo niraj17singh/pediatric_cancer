@@ -1,0 +1,392 @@
+Patient,Patient_parsed,Cancer,Tissue Location,Sample Type,Patient ID,Status,dormancy_or_recurrence,Risk Level,Nonamplified/Amplified,T_level
+NB.MYCN.A.Tumor.PALEVG_Alive_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PALEVG_Alive_HighRisk_Amplified']",NB,neuroblasts,Tumor,PALEVG,Alive,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PALKUC_Alive_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PALKUC_Alive_HighRisk_Amplified']",NB,neuroblasts,Tumor,PALKUC,Alive,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PALZZV_Alive_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PALZZV_Alive_HighRisk_Amplified']",NB,neuroblasts,Tumor,PALZZV,Alive,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PAMZGT_Alive_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PAMZGT_Alive_HighRisk_Amplified']",NB,neuroblasts,Tumor,PAMZGT,Alive,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PAPBJE_Alive_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PAPBJE_Alive_HighRisk_Amplified']",NB,neuroblasts,Tumor,PAPBJE,Alive,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PAPUNH_Alive_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PAPUNH_Alive_HighRisk_Amplified']",NB,neuroblasts,Tumor,PAPUNH,Alive,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PAPZYP_Alive_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PAPZYP_Alive_HighRisk_Amplified']",NB,neuroblasts,Tumor,PAPZYP,Alive,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PAPZYZ_Alive_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PAPZYZ_Alive_HighRisk_Amplified']",NB,neuroblasts,Tumor,PAPZYZ,Alive,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PASSRN_Alive_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PASSRN_Alive_HighRisk_Amplified']",NB,neuroblasts,Tumor,PASSRN,Alive,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PASWYR_Alive_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PASWYR_Alive_HighRisk_Amplified']",NB,neuroblasts,Tumor,PASWYR,Alive,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PASXIE_Alive_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PASXIE_Alive_HighRisk_Amplified']",NB,neuroblasts,Tumor,PASXIE,Alive,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PASXRG_Alive_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PASXRG_Alive_HighRisk_Amplified']",NB,neuroblasts,Tumor,PASXRG,Alive,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PATDWN_Alive_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PATDWN_Alive_HighRisk_Amplified']",NB,neuroblasts,Tumor,PATDWN,Alive,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PATDXG_Alive_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PATDXG_Alive_HighRisk_Amplified']",NB,neuroblasts,Tumor,PATDXG,Alive,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PAMBMJ_Dead_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PAMBMJ_Dead_HighRisk_Amplified']",NB,neuroblasts,Tumor,PAMBMJ,Dead,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PAMEZH_Dead_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PAMEZH_Dead_HighRisk_Amplified']",NB,neuroblasts,Tumor,PAMEZH,Dead,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PAMMXF_Dead_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PAMMXF_Dead_HighRisk_Amplified']",NB,neuroblasts,Tumor,PAMMXF,Dead,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PAMZMG_Dead_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PAMZMG_Dead_HighRisk_Amplified']",NB,neuroblasts,Tumor,PAMZMG,Dead,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PANJLH_Dead_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PANJLH_Dead_HighRisk_Amplified']",NB,neuroblasts,Tumor,PANJLH,Dead,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PANUKV_Dead_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PANUKV_Dead_HighRisk_Amplified']",NB,neuroblasts,Tumor,PANUKV,Dead,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PAPCTS_Dead_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PAPCTS_Dead_HighRisk_Amplified']",NB,neuroblasts,Tumor,PAPCTS,Dead,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PAPEFE_Dead_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PAPEFE_Dead_HighRisk_Amplified']",NB,neuroblasts,Tumor,PAPEFE,Dead,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PAPKWN_Dead_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PAPKWN_Dead_HighRisk_Amplified']",NB,neuroblasts,Tumor,PAPKWN,Dead,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PAPTFZ_Dead_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PAPTFZ_Dead_HighRisk_Amplified']",NB,neuroblasts,Tumor,PAPTFZ,Dead,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PAPTLV_Dead_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PAPTLV_Dead_HighRisk_Amplified']",NB,neuroblasts,Tumor,PAPTLV,Dead,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PASNZU_Dead_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PASNZU_Dead_HighRisk_Amplified']",NB,neuroblasts,Tumor,PASNZU,Dead,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PASVRU_Dead_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PASVRU_Dead_HighRisk_Amplified']",NB,neuroblasts,Tumor,PASVRU,Dead,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PASWFB_Dead_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PASWFB_Dead_HighRisk_Amplified']",NB,neuroblasts,Tumor,PASWFB,Dead,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PASZPI_Dead_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PASZPI_Dead_HighRisk_Amplified']",NB,neuroblasts,Tumor,PASZPI,Dead,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PATESI_Dead_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PATESI_Dead_HighRisk_Amplified']",NB,neuroblasts,Tumor,PATESI,Dead,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.PATFXV_Dead_High.Risk_Amplified,"['NB', 'MYCN', 'A', 'Tumor', 'PATFXV_Dead_HighRisk_Amplified']",NB,neuroblasts,Tumor,PATFXV,Dead,NA,HighRisk,Amplified,NA
+NB.MYCN.A.Tumor.NB21,"['NB', 'MYCN', 'A', 'Tumor', 'NB21']",NB,neuroblasts,Tumor,NB21,NA,NA,NA,Amplified,NA
+NB.MYCN.A.Tumor.NB265,"['NB', 'MYCN', 'A', 'Tumor', 'NB265']",NB,neuroblasts,Tumor,NB265,NA,NA,NA,Amplified,NA
+NB.MYCN.A.Tumor.NB266,"['NB', 'MYCN', 'A', 'Tumor', 'NB266']",NB,neuroblasts,Tumor,NB266,NA,NA,NA,Amplified,NA
+NB.MYCN.A.Tumor.NB27,"['NB', 'MYCN', 'A', 'Tumor', 'NB27']",NB,neuroblasts,Tumor,NB27,NA,NA,NA,Amplified,NA
+NB.MYCN.A.Tumor.NB278,"['NB', 'MYCN', 'A', 'Tumor', 'NB278']",NB,neuroblasts,Tumor,NB278,NA,NA,NA,Amplified,NA
+NB.MYCN.A.Tumor.NB541,"['NB', 'MYCN', 'A', 'Tumor', 'NB541']",NB,neuroblasts,Tumor,NB541,NA,NA,NA,Amplified,NA
+NB.MYCN.A.Tumor.NB545,"['NB', 'MYCN', 'A', 'Tumor', 'NB545']",NB,neuroblasts,Tumor,NB545,NA,NA,NA,Amplified,NA
+NB.MYCN.A.Tumor.NB547,"['NB', 'MYCN', 'A', 'Tumor', 'NB547']",NB,neuroblasts,Tumor,NB547,NA,NA,NA,Amplified,NA
+NB.MYCN.A.Tumor.NB581,"['NB', 'MYCN', 'A', 'Tumor', 'NB581']",NB,neuroblasts,Tumor,NB581,NA,NA,NA,Amplified,NA
+NB.MYCN.A.Tumor.NB583,"['NB', 'MYCN', 'A', 'Tumor', 'NB583']",NB,neuroblasts,Tumor,NB583,NA,NA,NA,Amplified,NA
+NB.MYCN.A.Tumor.NCI0010,"['NB', 'MYCN', 'A', 'Tumor', 'NCI0010']",NB,neuroblasts,Tumor,NCI0010,NA,NA,NA,Amplified,NA
+NB.MYCN.A.Tumor.NCI0102.T2,"['NB', 'MYCN', 'A', 'Tumor', 'NCI0102', 'T2']",NB,neuroblasts,Tumor,NCI0102,NA,NA,NA,Amplified,T2
+NB.MYCN.A.Tumor.NCI0136.T2,"['NB', 'MYCN', 'A', 'Tumor', 'NCI0136', 'T2']",NB,neuroblasts,Tumor,NCI0136,NA,NA,NA,Amplified,T2
+NB.MYCN.A.Tumor.NCI0138.T1,"['NB', 'MYCN', 'A', 'Tumor', 'NCI0138', 'T1']",NB,neuroblasts,Tumor,NCI0138,NA,NA,NA,Amplified,T1
+NB.MYCN.NA.Tumor.PASNML_Alive_Low.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASNML_Alive_LowRisk_NotAmplified']",NB,neuroblasts,Tumor,PASNML,Alive,NA,LowRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PATAYJ_Alive_Low.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PATAYJ_Alive_LowRisk_NotAmplified']",NB,neuroblasts,Tumor,PATAYJ,Alive,NA,LowRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAKZRH_Alive_Intermediate.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAKZRH_Alive_IntermediateRisk_NotAmplified']",NB,neuroblasts,Tumor,PAKZRH,Alive,NA,IntermediateRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASCTR_Alive_Intermediate.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASCTR_Alive_IntermediateRisk_NotAmplified']",NB,neuroblasts,Tumor,PASCTR,Alive,NA,IntermediateRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAIXIF_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAIXIF_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAIXIF,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAKYZS_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAKYZS_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAKYZS,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PALCBW_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PALCBW_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PALCBW,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PALNVP_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PALNVP_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PALNVP,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PALXTB_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PALXTB_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PALXTB,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PANGXK_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PANGXK_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PANGXK,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PANKFE_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PANKFE_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PANKFE,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PANNMS_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PANNMS_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PANNMS,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PANRRW_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PANRRW_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PANRRW,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PANRVJ_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PANRVJ_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PANRVJ,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PANUIF_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PANUIF_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PANUIF,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PANXJL_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PANXJL_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PANXJL,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAPEAV_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAPEAV_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAPEAV,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAPTAN_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAPTAN_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAPTAN,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAPUAR_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAPUAR_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAPUAR,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAPUEB_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAPUEB_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAPUEB,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAPVRN_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAPVRN_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAPVRN,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARACM_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARACM_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PARACM,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARACS_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARACS_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PARACS,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARDCK_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARDCK_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PARDCK,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARDIW_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARDIW_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PARDIW,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARYNK_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARYNK_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PARYNK,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARZIP_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARZIP_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PARZIP,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASGUT_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASGUT_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PASGUT,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASNEF_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASNEF_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PASNEF,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASPER_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASPER_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PASPER,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASRFS_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASRFS_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PASRFS,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASTKC_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASTKC_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PASTKC,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASUCB_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASUCB_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PASUCB,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASUYG_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASUYG_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PASUYG,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASWIJ_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASWIJ_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PASWIJ,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASWVY_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASWVY_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PASWVY,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASXGP_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASXGP_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PASXGP,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASXHE_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASXHE_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PASXHE,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASXRJ_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASXRJ_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PASXRJ,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASYPX_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASYPX_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PASYPX,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PATBMM_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PATBMM_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PATBMM,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PATCFL_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PATCFL_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PATCFL,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PATEKG_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PATEKG_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PATEKG,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PATHVK_Alive_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PATHVK_Alive_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PATHVK,Alive,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PANZRV_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PANZRV_Alive_NotAmplified']",NB,neuroblasts,Tumor,PANZRV,Alive,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAPICY_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAPICY_Alive_NotAmplified']",NB,neuroblasts,Tumor,PAPICY,Alive,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAPTDH_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAPTDH_Alive_NotAmplified']",NB,neuroblasts,Tumor,PAPTDH,Alive,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARBAJ_D_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARBAJ_D_Alive_NotAmplified']",NB,neuroblasts,Tumor,PARBAJ,Alive,Dormancy,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARBAJ_R_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARBAJ_R_Alive_NotAmplified']",NB,neuroblasts,Tumor,PARBAJ,Alive,Recurrence,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARFRE_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARFRE_Alive_NotAmplified']",NB,neuroblasts,Tumor,PARFRE,Alive,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARJVP_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARJVP_Alive_NotAmplified']",NB,neuroblasts,Tumor,PARJVP,Alive,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARNNC_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARNNC_Alive_NotAmplified']",NB,neuroblasts,Tumor,PARNNC,Alive,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARZCJ_D_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARZCJ_D_Alive_NotAmplified']",NB,neuroblasts,Tumor,PARZCJ,Alive,Dormancy,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARZHA_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARZHA_Alive_NotAmplified']",NB,neuroblasts,Tumor,PARZHA,Alive,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASCFC_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASCFC_Alive_NotAmplified']",NB,neuroblasts,Tumor,PASCFC,Alive,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASFIC_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASFIC_Alive_NotAmplified']",NB,neuroblasts,Tumor,PASFIC,Alive,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASMDM_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASMDM_Alive_NotAmplified']",NB,neuroblasts,Tumor,PASMDM,Alive,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASNPG_D_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASNPG_D_Alive_NotAmplified']",NB,neuroblasts,Tumor,PASNPG,Alive,Dormancy,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASNPG_R_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASNPG_R_Alive_NotAmplified']",NB,neuroblasts,Tumor,PASNPG,Alive,Recurrence,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASPBZ_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASPBZ_Alive_NotAmplified']",NB,neuroblasts,Tumor,PASPBZ,Alive,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASSWW_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASSWW_Alive_NotAmplified']",NB,neuroblasts,Tumor,PASSWW,Alive,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PATGJU_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PATGJU_Alive_NotAmplified']",NB,neuroblasts,Tumor,PATGJU,Alive,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PATHKB_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PATHKB_Alive_NotAmplified']",NB,neuroblasts,Tumor,PATHKB,Alive,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAUDDK_D_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAUDDK_D_Alive_NotAmplified']",NB,neuroblasts,Tumor,PAUDDK,Alive,Dormancy,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAUDDK_R_Alive_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAUDDK_R_Alive_NotAmplified']",NB,neuroblasts,Tumor,PAUDDK,Alive,Recurrence,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAIFXV_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAIFXV_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAIFXV,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAIPGU_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAIPGU_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAIPGU,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAISNS_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAISNS_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAISNS,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAITCI_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAITCI_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAITCI,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAITEG_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAITEG_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAITEG,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAIVHE_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAIVHE_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAIVHE,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PALBFW_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PALBFW_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PALBFW,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PALETP_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PALETP_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PALETP,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PALIIN_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PALIIN_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PALIIN,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PALTEG_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PALTEG_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PALTEG,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PALUYS_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PALUYS_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PALUYS,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PALVKK_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PALVKK_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PALVKK,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PALWVJ_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PALWVJ_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PALWVJ,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAMNLH_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAMNLH_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAMNLH,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAMVRA_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAMVRA_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAMVRA,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAMYCE_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAMYCE_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAMYCE,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PANBJH_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PANBJH_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PANBJH,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PANBMJ_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PANBMJ_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PANBMJ,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PANBSP_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PANBSP_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PANBSP,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PANLET_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PANLET_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PANLET,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PANRHJ_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PANRHJ_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PANRHJ,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PANSBN_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PANSBN_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PANSBN,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PANWRR_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PANWRR_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PANWRR,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PANYGR_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PANYGR_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PANYGR,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PANZPV_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PANZPV_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PANZPV,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PANZVU_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PANZVU_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PANZVU,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAPBGH_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAPBGH_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAPBGH,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAPBZI_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAPBZI_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAPBZI,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAPHPE_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAPHPE_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAPHPE,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAPKXS_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAPKXS_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAPKXS,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAPLSD_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAPLSD_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAPLSD,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAPUWY_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAPUWY_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAPUWY,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAPVFD_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAPVFD_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAPVFD,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAPVXS_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAPVXS_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PAPVXS,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARAMT_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARAMT_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PARAMT,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARBGP_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARBGP_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PARBGP,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARFWB_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARFWB_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PARFWB,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARGKK_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARGKK_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PARGKK,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARKGJ_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARKGJ_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PARKGJ,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARSBI_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARSBI_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PARSBI,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARVLK_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARVLK_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PARVLK,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASEGA_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASEGA_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PASEGA,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASFGG_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASFGG_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PASFGG,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASMJG_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASMJG_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PASMJG,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASMNT_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASMNT_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PASMNT,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASSRS_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASSRS_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PASSRS,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASTCN_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASTCN_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PASTCN,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PATDXC_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PATDXC_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PATDXC,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PATEPF_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PATEPF_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PATEPF,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PATFCY_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PATFCY_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PATFCY,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PATGLU_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PATGLU_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PATGLU,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PATINJ_Dead_High.Risk_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PATINJ_Dead_HighRisk_NotAmplified']",NB,neuroblasts,Tumor,PATINJ,Dead,NA,HighRisk,NotAmplified,NA
+NB.MYCN.NA.Tumor.PAPVEB_R_Dead_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PAPVEB_R_Dead_NotAmplified']",NB,neuroblasts,Tumor,PAPVEB,Dead,Recurrence,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARHAM_D_Dead_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARHAM_D_Dead_NotAmplified']",NB,neuroblasts,Tumor,PARHAM,Dead,Dormancy,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PARHAM_R_Dead_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PARHAM_R_Dead_NotAmplified']",NB,neuroblasts,Tumor,PARHAM,Dead,Recurrence,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASGAP_D_Dead_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASGAP_D_Dead_NotAmplified']",NB,neuroblasts,Tumor,PASGAP,Dead,Dormancy,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASGAP_R_Dead_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASGAP_R_Dead_NotAmplified']",NB,neuroblasts,Tumor,PASGAP,Dead,Recurrence,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASUML_Dead_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASUML_Dead_NotAmplified']",NB,neuroblasts,Tumor,PASUML,Dead,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PASZKE_Dead_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PASZKE_Dead_NotAmplified']",NB,neuroblasts,Tumor,PASZKE,Dead,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PATNKP_R_Dead_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PATNKP_R_Dead_NotAmplified']",NB,neuroblasts,Tumor,PATNKP,Dead,Recurrence,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PATYIL_D_Dead_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PATYIL_D_Dead_NotAmplified']",NB,neuroblasts,Tumor,PATYIL,Dead,Dormancy,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.PATYIL_R_Dead_Not.Amplified,"['NB', 'MYCN', 'NA', 'Tumor', 'PATYIL_R_Dead_NotAmplified']",NB,neuroblasts,Tumor,PATYIL,Dead,Recurrence,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.NB106,"['NB', 'MYCN', 'NA', 'Tumor', 'NB106']",NB,neuroblasts,Tumor,NB106,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.NB107,"['NB', 'MYCN', 'NA', 'Tumor', 'NB107']",NB,neuroblasts,Tumor,NB107,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.NB12,"['NB', 'MYCN', 'NA', 'Tumor', 'NB12']",NB,neuroblasts,Tumor,NB12,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.NB236,"['NB', 'MYCN', 'NA', 'Tumor', 'NB236']",NB,neuroblasts,Tumor,NB236,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.NB239,"['NB', 'MYCN', 'NA', 'Tumor', 'NB239']",NB,neuroblasts,Tumor,NB239,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.NB40,"['NB', 'MYCN', 'NA', 'Tumor', 'NB40']",NB,neuroblasts,Tumor,NB40,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.NB82,"['NB', 'MYCN', 'NA', 'Tumor', 'NB82']",NB,neuroblasts,Tumor,NB82,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.NB84,"['NB', 'MYCN', 'NA', 'Tumor', 'NB84']",NB,neuroblasts,Tumor,NB84,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.NB89,"['NB', 'MYCN', 'NA', 'Tumor', 'NB89']",NB,neuroblasts,Tumor,NB89,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.NB205,"['NB', 'MYCN', 'NA', 'Tumor', 'NB205']",NB,neuroblasts,Tumor,NB205,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.NB206,"['NB', 'MYCN', 'NA', 'Tumor', 'NB206']",NB,neuroblasts,Tumor,NB206,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.NB207,"['NB', 'MYCN', 'NA', 'Tumor', 'NB207']",NB,neuroblasts,Tumor,NB207,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.NB209,"['NB', 'MYCN', 'NA', 'Tumor', 'NB209']",NB,neuroblasts,Tumor,NB209,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.NB210,"['NB', 'MYCN', 'NA', 'Tumor', 'NB210']",NB,neuroblasts,Tumor,NB210,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.NB283,"['NB', 'MYCN', 'NA', 'Tumor', 'NB283']",NB,neuroblasts,Tumor,NB283,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.NB536,"['NB', 'MYCN', 'NA', 'Tumor', 'NB536']",NB,neuroblasts,Tumor,NB536,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.NB540,"['NB', 'MYCN', 'NA', 'Tumor', 'NB540']",NB,neuroblasts,Tumor,NB540,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.NB586,"['NB', 'MYCN', 'NA', 'Tumor', 'NB586']",NB,neuroblasts,Tumor,NB586,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.NB8,"['NB', 'MYCN', 'NA', 'Tumor', 'NB8']",NB,neuroblasts,Tumor,NB8,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.Tumor.NCI0157,"['NB', 'MYCN', 'NA', 'Tumor', 'NCI0157']",NB,neuroblasts,Tumor,NCI0157,NA,NA,NA,NotAmplified,NA
+NB.Unknown.Tumor.PAPTCR_Dead_High.Risk_Unknown,"['NB', 'Unknown', 'Tumor', 'PAPTCR_Dead_HighRisk_Unknown']",NB,neuroblasts,Tumor,PAPTCR,Dead,NA,HighRisk,Unknown,NA
+NB.Unknown.Tumor.NB62,"['NB', 'Unknown', 'Tumor', 'NB62']",NB,neuroblasts,Tumor,NB62,NA,NA,NA,Unknown,NA
+NB.Unknown.Tumor.NCI0002,"['NB', 'Unknown', 'Tumor', 'NCI0002']",NB,neuroblasts,Tumor,NCI0002,NA,NA,NA,Unknown,NA
+NB.Unknown.Tumor.NCI0005,"['NB', 'Unknown', 'Tumor', 'NCI0005']",NB,neuroblasts,Tumor,NCI0005,NA,NA,NA,Unknown,NA
+NB.Unknown.Tumor.NCI0011,"['NB', 'Unknown', 'Tumor', 'NCI0011']",NB,neuroblasts,Tumor,NCI0011,NA,NA,NA,Unknown,NA
+NB.Unknown.Tumor.NCI0015,"['NB', 'Unknown', 'Tumor', 'NCI0015']",NB,neuroblasts,Tumor,NCI0015,NA,NA,NA,Unknown,NA
+NB.Unknown.Tumor.NCI0017,"['NB', 'Unknown', 'Tumor', 'NCI0017']",NB,neuroblasts,Tumor,NCI0017,NA,NA,NA,Unknown,NA
+NB.Unknown.Tumor.NCI0017.T3,"['NB', 'Unknown', 'Tumor', 'NCI0017', 'T3']",NB,neuroblasts,Tumor,NCI0017,NA,NA,NA,Unknown,T3
+NB.Unknown.Tumor.NCI0017.T4,"['NB', 'Unknown', 'Tumor', 'NCI0017', 'T4']",NB,neuroblasts,Tumor,NCI0017,NA,NA,NA,Unknown,T4
+NB.Unknown.Tumor.NCI0108,"['NB', 'Unknown', 'Tumor', 'NCI0108']",NB,neuroblasts,Tumor,NCI0108,NA,NA,NA,Unknown,NA
+NB.Unknown.Tumor.NCI0117,"['NB', 'Unknown', 'Tumor', 'NCI0117']",NB,neuroblasts,Tumor,NCI0117,NA,NA,NA,Unknown,NA
+NB.Unknown.Tumor.NCI0231,"['NB', 'Unknown', 'Tumor', 'NCI0231']",NB,neuroblasts,Tumor,NCI0231,NA,NA,NA,Unknown,NA
+NB.MYCN.A.CellLine.CHP134,"['NB', 'MYCN', 'A', 'CellLine', 'CHP134']",NB,neuroblasts,CellLine,CHP134,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.CHP-212,"['NB', 'MYCN', 'A', 'CellLine', 'CHP-212']",NB,neuroblasts,CellLine,CHP-212,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.COGN415,"['NB', 'MYCN', 'A', 'CellLine', 'COGN415']",NB,neuroblasts,CellLine,COGN415,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.COGN440,"['NB', 'MYCN', 'A', 'CellLine', 'COGN440']",NB,neuroblasts,CellLine,COGN440,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.COGN453,"['NB', 'MYCN', 'A', 'CellLine', 'COGN453']",NB,neuroblasts,CellLine,COGN453,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.COGN471,"['NB', 'MYCN', 'A', 'CellLine', 'COGN471']",NB,neuroblasts,CellLine,COGN471,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.COGN496,"['NB', 'MYCN', 'A', 'CellLine', 'COGN496']",NB,neuroblasts,CellLine,COGN496,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.COGN519,"['NB', 'MYCN', 'A', 'CellLine', 'COGN519']",NB,neuroblasts,CellLine,COGN519,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.COGN561,"['NB', 'MYCN', 'A', 'CellLine', 'COGN561']",NB,neuroblasts,CellLine,COGN561,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.COGN573,"['NB', 'MYCN', 'A', 'CellLine', 'COGN573']",NB,neuroblasts,CellLine,COGN573,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.GILIN,"['NB', 'MYCN', 'A', 'CellLine', 'GILIN']",NB,neuroblasts,CellLine,GILIN,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.IMR32,"['NB', 'MYCN', 'A', 'CellLine', 'IMR32']",NB,neuroblasts,CellLine,IMR32,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.IMR5,"['NB', 'MYCN', 'A', 'CellLine', 'IMR5']",NB,neuroblasts,CellLine,IMR5,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.KCNR,"['NB', 'MYCN', 'A', 'CellLine', 'KCNR']",NB,neuroblasts,CellLine,KCNR,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.KELLY,"['NB', 'MYCN', 'A', 'CellLine', 'KELLY']",NB,neuroblasts,CellLine,KELLY,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.LAN1,"['NB', 'MYCN', 'A', 'CellLine', 'LAN1']",NB,neuroblasts,CellLine,LAN1,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.LAN5,"['NB', 'MYCN', 'A', 'CellLine', 'LAN5']",NB,neuroblasts,CellLine,LAN5,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.NB1,"['NB', 'MYCN', 'A', 'CellLine', 'NB1']",NB,neuroblasts,CellLine,NB1,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.NB1643,"['NB', 'MYCN', 'A', 'CellLine', 'NB1643']",NB,neuroblasts,CellLine,NB1643,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.NB1691,"['NB', 'MYCN', 'A', 'CellLine', 'NB1691']",NB,neuroblasts,CellLine,NB1691,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.NBSD,"['NB', 'MYCN', 'A', 'CellLine', 'NBSD']",NB,neuroblasts,CellLine,NBSD,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.NGP,"['NB', 'MYCN', 'A', 'CellLine', 'NGP']",NB,neuroblasts,CellLine,NGP,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.NLF,"['NB', 'MYCN', 'A', 'CellLine', 'NLF']",NB,neuroblasts,CellLine,NLF,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.NMB,"['NB', 'MYCN', 'A', 'CellLine', 'NMB']",NB,neuroblasts,CellLine,NMB,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.SKNBE2,"['NB', 'MYCN', 'A', 'CellLine', 'SKNBE2']",NB,neuroblasts,CellLine,SKNBE2,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.SKNDZ,"['NB', 'MYCN', 'A', 'CellLine', 'SKNDZ']",NB,neuroblasts,CellLine,SKNDZ,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.SMSKAN,"['NB', 'MYCN', 'A', 'CellLine', 'SMSKAN']",NB,neuroblasts,CellLine,SMSKAN,NA,NA,NA,Amplified,NA
+NB.MYCN.A.CellLine.SMSSAN,"['NB', 'MYCN', 'A', 'CellLine', 'SMSSAN']",NB,neuroblasts,CellLine,SMSSAN,NA,NA,NA,Amplified,NA
+NB.MYCN.NA.CellLine.COGN534,"['NB', 'MYCN', 'NA', 'CellLine', 'COGN534']",NB,neuroblasts,CellLine,COGN534,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.CellLine.COGN549,"['NB', 'MYCN', 'NA', 'CellLine', 'COGN549']",NB,neuroblasts,CellLine,COGN549,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.CellLine.FELIX,"['NB', 'MYCN', 'NA', 'CellLine', 'FELIX']",NB,neuroblasts,CellLine,FELIX,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.CellLine.LAN6,"['NB', 'MYCN', 'NA', 'CellLine', 'LAN6']",NB,neuroblasts,CellLine,LAN6,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.CellLine.NB16,"['NB', 'MYCN', 'NA', 'CellLine', 'NB16']",NB,neuroblasts,CellLine,NB16,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.CellLine.NB69,"['NB', 'MYCN', 'NA', 'CellLine', 'NB69']",NB,neuroblasts,CellLine,NB69,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.CellLine.NBEB,"['NB', 'MYCN', 'NA', 'CellLine', 'NBEB']",NB,neuroblasts,CellLine,NBEB,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.CellLine.NBLS,"['NB', 'MYCN', 'NA', 'CellLine', 'NBLS']",NB,neuroblasts,CellLine,NBLS,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.CellLine.SHSY5Y,"['NB', 'MYCN', 'NA', 'CellLine', 'SHSY5Y']",NB,neuroblasts,CellLine,SHSY5Y,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.CellLine.SKNAS,"['NB', 'MYCN', 'NA', 'CellLine', 'SKNAS']",NB,neuroblasts,CellLine,SKNAS,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.CellLine.SKNFI,"['NB', 'MYCN', 'NA', 'CellLine', 'SKNFI']",NB,neuroblasts,CellLine,SKNFI,NA,NA,NA,NotAmplified,NA
+NB.MYCN.NA.CellLine.SKNSH,"['NB', 'MYCN', 'NA', 'CellLine', 'SKNSH']",NB,neuroblasts,CellLine,SKNSH,NA,NA,NA,NotAmplified,NA
+NS.adrenalgland.NS007,"['NS', 'adrenalgland', 'NS007']",NS,adrenalgland,NS,NS007,NA,NA,NA,NA,NA
+NS.adrenalgland.NS008,"['NS', 'adrenalgland', 'NS008']",NS,adrenalgland,NS,NS008,NA,NA,NA,NA,NA
+NS.adrenalgland.NS003,"['NS', 'adrenalgland', 'NS003']",NS,adrenalgland,NS,NS003,NA,NA,NA,NA,NA
+NS.adrenalgland.NS005,"['NS', 'adrenalgland', 'NS005']",NS,adrenalgland,NS,NS005,NA,NA,NA,NA,NA
+NS.adrenalgland.NS001,"['NS', 'adrenalgland', 'NS001']",NS,adrenalgland,NS,NS001,NA,NA,NA,NA,NA
+NS.adrenalgland.NS006,"['NS', 'adrenalgland', 'NS006']",NS,adrenalgland,NS,NS006,NA,NA,NA,NA,NA
+NS.adrenalgland.NS002,"['NS', 'adrenalgland', 'NS002']",NS,adrenalgland,NS,NS002,NA,NA,NA,NA,NA
+NS.adrenalgland.NS009,"['NS', 'adrenalgland', 'NS009']",NS,adrenalgland,NS,NS009,NA,NA,NA,NA,NA
+NS.bladder.NS017,"['NS', 'bladder', 'NS017']",NS,bladder,NS,NS017,NA,NA,NA,NA,NA
+NS.bladder.NS012,"['NS', 'bladder', 'NS012']",NS,bladder,NS,NS012,NA,NA,NA,NA,NA
+NS.bladder.NS019,"['NS', 'bladder', 'NS019']",NS,bladder,NS,NS019,NA,NA,NA,NA,NA
+NS.bladder.NS011,"['NS', 'bladder', 'NS011']",NS,bladder,NS,NS011,NA,NA,NA,NA,NA
+NS.bladder.NS013,"['NS', 'bladder', 'NS013']",NS,bladder,NS,NS013,NA,NA,NA,NA,NA
+NS.bladder.NS014,"['NS', 'bladder', 'NS014']",NS,bladder,NS,NS014,NA,NA,NA,NA,NA
+NS.bladder.NS015,"['NS', 'bladder', 'NS015']",NS,bladder,NS,NS015,NA,NA,NA,NA,NA
+NS.bladder.NS016,"['NS', 'bladder', 'NS016']",NS,bladder,NS,NS016,NA,NA,NA,NA,NA
+NS.cerebellum.NS026,"['NS', 'cerebellum', 'NS026']",NS,cerebellum,NS,NS026,NA,NA,NA,NA,NA
+NS.cerebellum.NS029,"['NS', 'cerebellum', 'NS029']",NS,cerebellum,NS,NS029,NA,NA,NA,NA,NA
+NS.cerebellum.NS021,"['NS', 'cerebellum', 'NS021']",NS,cerebellum,NS,NS021,NA,NA,NA,NA,NA
+NS.cerebellum.NS022,"['NS', 'cerebellum', 'NS022']",NS,cerebellum,NS,NS022,NA,NA,NA,NA,NA
+NS.cerebellum.NS023,"['NS', 'cerebellum', 'NS023']",NS,cerebellum,NS,NS023,NA,NA,NA,NA,NA
+NS.cerebellum.NS028,"['NS', 'cerebellum', 'NS028']",NS,cerebellum,NS,NS028,NA,NA,NA,NA,NA
+NS.cerebellum.NS024,"['NS', 'cerebellum', 'NS024']",NS,cerebellum,NS,NS024,NA,NA,NA,NA,NA
+NS.cerebellum.NS025,"['NS', 'cerebellum', 'NS025']",NS,cerebellum,NS,NS025,NA,NA,NA,NA,NA
+NS.cerebellum.NS027,"['NS', 'cerebellum', 'NS027']",NS,cerebellum,NS,NS027,NA,NA,NA,NA,NA
+NS.cerebellum.NS020,"['NS', 'cerebellum', 'NS020']",NS,cerebellum,NS,NS020,NA,NA,NA,NA,NA
+NS.cerebrum.NS037,"['NS', 'cerebrum', 'NS037']",NS,cerebrum,NS,NS037,NA,NA,NA,NA,NA
+NS.cerebrum.NS032,"['NS', 'cerebrum', 'NS032']",NS,cerebrum,NS,NS032,NA,NA,NA,NA,NA
+NS.cerebrum.NS033,"['NS', 'cerebrum', 'NS033']",NS,cerebrum,NS,NS033,NA,NA,NA,NA,NA
+NS.cerebrum.NS034,"['NS', 'cerebrum', 'NS034']",NS,cerebrum,NS,NS034,NA,NA,NA,NA,NA
+NS.cerebrum.NS035,"['NS', 'cerebrum', 'NS035']",NS,cerebrum,NS,NS035,NA,NA,NA,NA,NA
+NS.cerebrum.NS030,"['NS', 'cerebrum', 'NS030']",NS,cerebrum,NS,NS030,NA,NA,NA,NA,NA
+NS.cerebrum.NS036,"['NS', 'cerebrum', 'NS036']",NS,cerebrum,NS,NS036,NA,NA,NA,NA,NA
+NS.cerebrum.NS031,"['NS', 'cerebrum', 'NS031']",NS,cerebrum,NS,NS031,NA,NA,NA,NA,NA
+NS.colon.NS039,"['NS', 'colon', 'NS039']",NS,colon,NS,NS039,NA,NA,NA,NA,NA
+NS.colon.NS043,"['NS', 'colon', 'NS043']",NS,colon,NS,NS043,NA,NA,NA,NA,NA
+NS.colon.NS044,"['NS', 'colon', 'NS044']",NS,colon,NS,NS044,NA,NA,NA,NA,NA
+NS.colon.NS045,"['NS', 'colon', 'NS045']",NS,colon,NS,NS045,NA,NA,NA,NA,NA
+NS.colon.NS040,"['NS', 'colon', 'NS040']",NS,colon,NS,NS040,NA,NA,NA,NA,NA
+NS.colon.NS041,"['NS', 'colon', 'NS041']",NS,colon,NS,NS041,NA,NA,NA,NA,NA
+NS.colon.NS047,"['NS', 'colon', 'NS047']",NS,colon,NS,NS047,NA,NA,NA,NA,NA
+NS.colon.NS048,"['NS', 'colon', 'NS048']",NS,colon,NS,NS048,NA,NA,NA,NA,NA
+NS.colon.NS046,"['NS', 'colon', 'NS046']",NS,colon,NS,NS046,NA,NA,NA,NA,NA
+NS.heart.NS055,"['NS', 'heart', 'NS055']",NS,heart,NS,NS055,NA,NA,NA,NA,NA
+NS.heart.NS049,"['NS', 'heart', 'NS049']",NS,heart,NS,NS049,NA,NA,NA,NA,NA
+NS.heart.NS051,"['NS', 'heart', 'NS051']",NS,heart,NS,NS051,NA,NA,NA,NA,NA
+NS.heart.NS052,"['NS', 'heart', 'NS052']",NS,heart,NS,NS052,NA,NA,NA,NA,NA
+NS.heart.NS057,"['NS', 'heart', 'NS057']",NS,heart,NS,NS057,NA,NA,NA,NA,NA
+NS.heart.NS054,"['NS', 'heart', 'NS054']",NS,heart,NS,NS054,NA,NA,NA,NA,NA
+NS.heart.NS056,"['NS', 'heart', 'NS056']",NS,heart,NS,NS056,NA,NA,NA,NA,NA
+NS.ileum.NS065,"['NS', 'ileum', 'NS065']",NS,ileum,NS,NS065,NA,NA,NA,NA,NA
+NS.ileum.NS068,"['NS', 'ileum', 'NS068']",NS,ileum,NS,NS068,NA,NA,NA,NA,NA
+NS.ileum.NS062,"['NS', 'ileum', 'NS062']",NS,ileum,NS,NS062,NA,NA,NA,NA,NA
+NS.ileum.NS059,"['NS', 'ileum', 'NS059']",NS,ileum,NS,NS059,NA,NA,NA,NA,NA
+NS.ileum.NS063,"['NS', 'ileum', 'NS063']",NS,ileum,NS,NS063,NA,NA,NA,NA,NA
+NS.ileum.NS060,"['NS', 'ileum', 'NS060']",NS,ileum,NS,NS060,NA,NA,NA,NA,NA
+NS.ileum.NS064,"['NS', 'ileum', 'NS064']",NS,ileum,NS,NS064,NA,NA,NA,NA,NA
+NS.ileum.NS061,"['NS', 'ileum', 'NS061']",NS,ileum,NS,NS061,NA,NA,NA,NA,NA
+NS.kidney.NS077,"['NS', 'kidney', 'NS077']",NS,kidney,NS,NS077,NA,NA,NA,NA,NA
+NS.kidney.NS078,"['NS', 'kidney', 'NS078']",NS,kidney,NS,NS078,NA,NA,NA,NA,NA
+NS.kidney.NS072,"['NS', 'kidney', 'NS072']",NS,kidney,NS,NS072,NA,NA,NA,NA,NA
+NS.kidney.NS073,"['NS', 'kidney', 'NS073']",NS,kidney,NS,NS073,NA,NA,NA,NA,NA
+NS.kidney.NS069,"['NS', 'kidney', 'NS069']",NS,kidney,NS,NS069,NA,NA,NA,NA,NA
+NS.kidney.NS074,"['NS', 'kidney', 'NS074']",NS,kidney,NS,NS074,NA,NA,NA,NA,NA
+NS.kidney.NS076,"['NS', 'kidney', 'NS076']",NS,kidney,NS,NS076,NA,NA,NA,NA,NA
+NS.kidney.NS070,"['NS', 'kidney', 'NS070']",NS,kidney,NS,NS070,NA,NA,NA,NA,NA
+NS.liver.NS087,"['NS', 'liver', 'NS087']",NS,liver,NS,NS087,NA,NA,NA,NA,NA
+NS.liver.NS080,"['NS', 'liver', 'NS080']",NS,liver,NS,NS080,NA,NA,NA,NA,NA
+NS.liver.NS081,"['NS', 'liver', 'NS081']",NS,liver,NS,NS081,NA,NA,NA,NA,NA
+NS.liver.NS088,"['NS', 'liver', 'NS088']",NS,liver,NS,NS088,NA,NA,NA,NA,NA
+NS.liver.NS084,"['NS', 'liver', 'NS084']",NS,liver,NS,NS084,NA,NA,NA,NA,NA
+NS.liver.NS083,"['NS', 'liver', 'NS083']",NS,liver,NS,NS083,NA,NA,NA,NA,NA
+NS.liver.NS086,"['NS', 'liver', 'NS086']",NS,liver,NS,NS086,NA,NA,NA,NA,NA
+NS.liver.NS079,"['NS', 'liver', 'NS079']",NS,liver,NS,NS079,NA,NA,NA,NA,NA
+NS.lung.NS096,"['NS', 'lung', 'NS096']",NS,lung,NS,NS096,NA,NA,NA,NA,NA
+NS.lung.NS098,"['NS', 'lung', 'NS098']",NS,lung,NS,NS098,NA,NA,NA,NA,NA
+NS.lung.NS091,"['NS', 'lung', 'NS091']",NS,lung,NS,NS091,NA,NA,NA,NA,NA
+NS.lung.NS092,"['NS', 'lung', 'NS092']",NS,lung,NS,NS092,NA,NA,NA,NA,NA
+NS.lung.NS093,"['NS', 'lung', 'NS093']",NS,lung,NS,NS093,NA,NA,NA,NA,NA
+NS.lung.NS089,"['NS', 'lung', 'NS089']",NS,lung,NS,NS089,NA,NA,NA,NA,NA
+NS.lung.NS095,"['NS', 'lung', 'NS095']",NS,lung,NS,NS095,NA,NA,NA,NA,NA
+NS.lung.NS097,"['NS', 'lung', 'NS097']",NS,lung,NS,NS097,NA,NA,NA,NA,NA
+NS.ovary.NS103,"['NS', 'ovary', 'NS103']",NS,ovary,NS,NS103,NA,NA,NA,NA,NA
+NS.ovary.NS099,"['NS', 'ovary', 'NS099']",NS,ovary,NS,NS099,NA,NA,NA,NA,NA
+NS.ovary.NS106,"['NS', 'ovary', 'NS106']",NS,ovary,NS,NS106,NA,NA,NA,NA,NA
+NS.ovary.NS105,"['NS', 'ovary', 'NS105']",NS,ovary,NS,NS105,NA,NA,NA,NA,NA
+NS.ovary.NS102,"['NS', 'ovary', 'NS102']",NS,ovary,NS,NS102,NA,NA,NA,NA,NA
+NS.pancreas.NS113,"['NS', 'pancreas', 'NS113']",NS,pancreas,NS,NS113,NA,NA,NA,NA,NA
+NS.pancreas.NS116,"['NS', 'pancreas', 'NS116']",NS,pancreas,NS,NS116,NA,NA,NA,NA,NA
+NS.pancreas.NS111,"['NS', 'pancreas', 'NS111']",NS,pancreas,NS,NS111,NA,NA,NA,NA,NA
+NS.pancreas.NS108,"['NS', 'pancreas', 'NS108']",NS,pancreas,NS,NS108,NA,NA,NA,NA,NA
+NS.pancreas.NS112,"['NS', 'pancreas', 'NS112']",NS,pancreas,NS,NS112,NA,NA,NA,NA,NA
+NS.pancreas.NS114,"['NS', 'pancreas', 'NS114']",NS,pancreas,NS,NS114,NA,NA,NA,NA,NA
+NS.prostate.NS120,"['NS', 'prostate', 'NS120']",NS,prostate,NS,NS120,NA,NA,NA,NA,NA
+NS.prostate.NS123,"['NS', 'prostate', 'NS123']",NS,prostate,NS,NS123,NA,NA,NA,NA,NA
+NS.prostate.NS126,"['NS', 'prostate', 'NS126']",NS,prostate,NS,NS126,NA,NA,NA,NA,NA
+NS.prostate.NS125,"['NS', 'prostate', 'NS125']",NS,prostate,NS,NS125,NA,NA,NA,NA,NA
+NS.prostate.NS121,"['NS', 'prostate', 'NS121']",NS,prostate,NS,NS121,NA,NA,NA,NA,NA
+NS.prostate.NS124,"['NS', 'prostate', 'NS124']",NS,prostate,NS,NS124,NA,NA,NA,NA,NA
+NS.prostate.NS118,"['NS', 'prostate', 'NS118']",NS,prostate,NS,NS118,NA,NA,NA,NA,NA
+NS.prostate.NS122,"['NS', 'prostate', 'NS122']",NS,prostate,NS,NS122,NA,NA,NA,NA,NA
+NS.prostate.NS119,"['NS', 'prostate', 'NS119']",NS,prostate,NS,NS119,NA,NA,NA,NA,NA
+NS.skeletalmuscle.NCIEWS5000muscle,"['NS', 'skeletalmuscle', 'NCIEWS5000muscle']",NS,skeletalmuscle,NS,NCIEWS5000muscle,NA,NA,NA,NA,NA
+NS.skeletalmuscle.NS130,"['NS', 'skeletalmuscle', 'NS130']",NS,skeletalmuscle,NS,NS130,NA,NA,NA,NA,NA
+NS.skeletalmuscle.NS131,"['NS', 'skeletalmuscle', 'NS131']",NS,skeletalmuscle,NS,NS131,NA,NA,NA,NA,NA
+NS.skeletalmuscle.NS129,"['NS', 'skeletalmuscle', 'NS129']",NS,skeletalmuscle,NS,NS129,NA,NA,NA,NA,NA
+NS.skeletalmuscle.NS133,"['NS', 'skeletalmuscle', 'NS133']",NS,skeletalmuscle,NS,NS133,NA,NA,NA,NA,NA
+NS.skeletalmuscle.NS134,"['NS', 'skeletalmuscle', 'NS134']",NS,skeletalmuscle,NS,NS134,NA,NA,NA,NA,NA
+NS.skeletalmuscle.NS127,"['NS', 'skeletalmuscle', 'NS127']",NS,skeletalmuscle,NS,NS127,NA,NA,NA,NA,NA
+NS.skeletalmuscle.NS132,"['NS', 'skeletalmuscle', 'NS132']",NS,skeletalmuscle,NS,NS132,NA,NA,NA,NA,NA
+NS.skeletalmuscle.NS135,"['NS', 'skeletalmuscle', 'NS135']",NS,skeletalmuscle,NS,NS135,NA,NA,NA,NA,NA
+NS.skeletalmuscle.NS136,"['NS', 'skeletalmuscle', 'NS136']",NS,skeletalmuscle,NS,NS136,NA,NA,NA,NA,NA
+NS.skeletalmuscle.NS128,"['NS', 'skeletalmuscle', 'NS128']",NS,skeletalmuscle,NS,NS128,NA,NA,NA,NA,NA
+NS.spleen.NS146,"['NS', 'spleen', 'NS146']",NS,spleen,NS,NS146,NA,NA,NA,NA,NA
+NS.spleen.NS139,"['NS', 'spleen', 'NS139']",NS,spleen,NS,NS139,NA,NA,NA,NA,NA
+NS.spleen.NS137,"['NS', 'spleen', 'NS137']",NS,spleen,NS,NS137,NA,NA,NA,NA,NA
+NS.spleen.NS143,"['NS', 'spleen', 'NS143']",NS,spleen,NS,NS143,NA,NA,NA,NA,NA
+NS.spleen.NS145,"['NS', 'spleen', 'NS145']",NS,spleen,NS,NS145,NA,NA,NA,NA,NA
+NS.stomach.NS152,"['NS', 'stomach', 'NS152']",NS,stomach,NS,NS152,NA,NA,NA,NA,NA
+NS.stomach.NS156,"['NS', 'stomach', 'NS156']",NS,stomach,NS,NS156,NA,NA,NA,NA,NA
+NS.stomach.NS149,"['NS', 'stomach', 'NS149']",NS,stomach,NS,NS149,NA,NA,NA,NA,NA
+NS.stomach.NS150,"['NS', 'stomach', 'NS150']",NS,stomach,NS,NS150,NA,NA,NA,NA,NA
+NS.stomach.NS151,"['NS', 'stomach', 'NS151']",NS,stomach,NS,NS151,NA,NA,NA,NA,NA
+NS.stomach.NS147,"['NS', 'stomach', 'NS147']",NS,stomach,NS,NS147,NA,NA,NA,NA,NA
+NS.stomach.NS153,"['NS', 'stomach', 'NS153']",NS,stomach,NS,NS153,NA,NA,NA,NA,NA
+NS.testis.NS165,"['NS', 'testis', 'NS165']",NS,testis,NS,NS165,NA,NA,NA,NA,NA
+NS.testis.NS166,"['NS', 'testis', 'NS166']",NS,testis,NS,NS166,NA,NA,NA,NA,NA
+NS.testis.NS162,"['NS', 'testis', 'NS162']",NS,testis,NS,NS162,NA,NA,NA,NA,NA
+NS.testis.NS159,"['NS', 'testis', 'NS159']",NS,testis,NS,NS159,NA,NA,NA,NA,NA
+NS.testis.NS158,"['NS', 'testis', 'NS158']",NS,testis,NS,NS158,NA,NA,NA,NA,NA
+NS.testis.NS161,"['NS', 'testis', 'NS161']",NS,testis,NS,NS161,NA,NA,NA,NA,NA
+NS.testis.NS160,"['NS', 'testis', 'NS160']",NS,testis,NS,NS160,NA,NA,NA,NA,NA
+NS.thyroid.NCI0228normal,"['NS', 'thyroid', 'NCI0228normal']",NS,thyroid,NS,NCI0228normal,NA,NA,NA,NA,NA
+NS.ureter.NS170,"['NS', 'ureter', 'NS170']",NS,ureter,NS,NS170,NA,NA,NA,NA,NA
+NS.ureter.NS169,"['NS', 'ureter', 'NS169']",NS,ureter,NS,NS169,NA,NA,NA,NA,NA
+NS.ureter.NS174,"['NS', 'ureter', 'NS174']",NS,ureter,NS,NS174,NA,NA,NA,NA,NA
+NS.ureter.NS175,"['NS', 'ureter', 'NS175']",NS,ureter,NS,NS175,NA,NA,NA,NA,NA
+NS.ureter.NS171,"['NS', 'ureter', 'NS171']",NS,ureter,NS,NS171,NA,NA,NA,NA,NA
+NS.ureter.NS172,"['NS', 'ureter', 'NS172']",NS,ureter,NS,NS172,NA,NA,NA,NA,NA
+NS.ureter.NS173,"['NS', 'ureter', 'NS173']",NS,ureter,NS,NS173,NA,NA,NA,NA,NA
+NS.uterus.NS185,"['NS', 'uterus', 'NS185']",NS,uterus,NS,NS185,NA,NA,NA,NA,NA
+NS.uterus.NS177,"['NS', 'uterus', 'NS177']",NS,uterus,NS,NS177,NA,NA,NA,NA,NA
+NS.uterus.NS178,"['NS', 'uterus', 'NS178']",NS,uterus,NS,NS178,NA,NA,NA,NA,NA
+NS.uterus.NS180,"['NS', 'uterus', 'NS180']",NS,uterus,NS,NS180,NA,NA,NA,NA,NA
+NS.uterus.NS186,"['NS', 'uterus', 'NS186']",NS,uterus,NS,NS186,NA,NA,NA,NA,NA
+NS.uterus.NS184,"['NS', 'uterus', 'NS184']",NS,uterus,NS,NS184,NA,NA,NA,NA,NA
+NS.uterus.NS181,"['NS', 'uterus', 'NS181']",NS,uterus,NS,NS181,NA,NA,NA,NA,NA
